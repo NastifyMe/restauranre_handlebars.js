@@ -1,0 +1,38 @@
+{ "dishes": [
+    {
+        "image": "https://static.tildacdn.com/tild6164-6239-4561-a130-376437623033/_4.png",
+        "name": "Паста Карбонара",
+        "descriptoin": "Класична італійська паста зі спагеті, беконом, вершками та пармезаном.",
+        "price": "12.50 €"
+    },
+    {
+        "image": "https://znatnakurka.ua/sites/default/files/styles/wide/public/2024-02/salat-cezar-klassicheskii-s-kuricei_1611309331_16_max.jpeg",
+        "name": "Цезар з куркою",
+        "descriptoin": "Свіжий салат з курячим філе, листям салату романо, соусом Цезар і грінками.",
+        "price": "9.90 €"
+    },
+    {
+        "image": "https://lviv.veteranopizza.com/image/cache/webp/catalog/pizza/margo-800x800.webp",
+        "name": "Піца Маргарита",
+        "descriptoin": "Традиційна піца з томатним соусом, сиром моцарела та свіжим базиліком.",
+        "price": "10.00 €"
+    },
+    {
+        "image": "https://ryboedov.ru/upload/resize_cache/iblock/139/1000_1000_1/1394b58c3923b284325da6aa1c152549.jpg",
+        "name": "Стейк Рібай",
+        "descriptoin": "Соковитий стейк середнього прожарювання, подається з овочами гриль і соусом деміглас.",
+        "price": "18.90 €"
+    },
+    {
+        "image": "https://lasunka.com/s165-prew.jpg",
+        "name": "Тірамісу",
+        "descriptoin": "Ніжний десерт з маскарпоне, кави та какао, приготований за класичним рецептом.",
+        "price": "6.50 €"
+    },
+    {
+        "image": "https://s0.rbk.ru/v6_top_pics/resized/600xH/media/img/6/59/346820747286596.webp",
+        "name": "Домашній лимонад",
+        "descriptoin": "Освіжаючий напій з лимонним соком, м'ятою та кубиками льоду.",
+        "price": "4.20 €"
+    }
+]}
